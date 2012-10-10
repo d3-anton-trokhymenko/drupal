@@ -1,0 +1,4 @@
+name = VK FB auth module
+description = VK FB auth module for USA2UKRAINE.COM project.
+core = 7.x
+version = "7.x-1.0"
