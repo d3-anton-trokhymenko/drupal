@@ -1,0 +1,8 @@
+#vk_fb_login_buttons {
+    overflow: hidden;
+}
+#vk_login, #fb_login {
+    padding: 5px;
+    float: left;
+}
+
